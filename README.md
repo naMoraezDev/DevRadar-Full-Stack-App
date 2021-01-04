@@ -76,10 +76,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/naMoraezDev/AirCnC-Full-Stack-App.git
+$ git clone https://github.com/naMoraezDev/DevRadar-Full-Stack-App.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd AirCnC-Full-Stack-App-main
+$ cd DevRadar-Full-Stack-App-main
 
 # Vá para a pasta server
 $ cd backend
@@ -103,10 +103,10 @@ $ yarn dev
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/naMoraezDev/AirCnC-Full-Stack-App.git
+$ git clone https://github.com/naMoraezDev/DevRadar-Full-Stack-App.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd AirCnC-Full-Stack-App-main
+$ cd DevRadar-Full-Stack-App-main
 
 # Vá para a pasta da aplicação Front End
 $ cd frontend
@@ -125,15 +125,15 @@ $ yarn start
 
 ```
 
-#### :space_invader: Rodando a aplicação mobile (mobile)
+#### :iphone: Rodando a aplicação mobile (mobile)
 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/naMoraezDev/AirCnC-Full-Stack-App.git
+$ git clone https://github.com/naMoraezDev/DevRadar-Full-Stack-App.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd AirCnC-Full-Stack-App-main
+$ cd DevRadar-Full-Stack-App-main
 
 # Vá para a pasta da aplicação Front End
 $ cd mobile
